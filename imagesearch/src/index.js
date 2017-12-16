@@ -18,8 +18,8 @@ function Imagegallery(props) {
 }
 
 const images = [
-  {id: 1, title: 'Aortic Dissection', content: 'Welcome to learning React!', url: 'https://wikem.org/w/images/AoDissect_DeBakey1.png'},
-  {id: 2, title: 'Another Aortic Dissection', content: 'You can install React from npm.', url:'https://wikem.org/w/images/AoDissect_DeBakey2.png'}
+  {id: 1, title: 'Aortic Dissection', url: 'https://wikem.org/w/images/AoDissect_DeBakey1.png'},
+  {id: 2, title: 'Another Aortic Dissection', url:'https://wikem.org/w/images/AoDissect_DeBakey2.png'}
 ];
 
 ReactDOM.render(
